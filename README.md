@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Hanny-Y
+- 👋 Hi, I’m @Hanny-Y from Nanjing University.
 - 👀 I’m interested in reading and painting.
 - 🌱 I’m currently learning coding skills and how to make my life wonderful.
-- 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me :hannydeer7077@gmail.com
+- 😄 My dream: earn enough money to feed myself and become a guitar-rapper.
+- 💞️ My recent favourite song: Dynamite by BTS.
 - 💗 A kpop lover: SuperJunior-Leetauk, Tomorrow x Together-Yeanjun, Ive-Liz.
 
 <!---
